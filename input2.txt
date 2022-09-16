@@ -1,0 +1,13 @@
+start chocolates,2 cleaning_items,2 breads,2
+chocolates start,2 breads,2 eggs&meat,2 fruits,3
+vegetables spices,3 eggs&meat,3
+fruits oils,2 chocolates,3 eggs&meat,3
+spices oils,1 vegetables,3
+beverages pulses,2 snacks,2 pet_food,2
+snacks pulses,2 breads,2 beverages,2
+eggs&meat vegetables,3 fruits,3 chocolates,2
+breads start,2 snacks,2 chocolates,2
+pulses oils,1 beverages,2 snacks,2
+oils spices,1 pulses,1 fruits,2
+pet_food beverages,2 cleaning_items,2
+cleaning_items start,2 pet_food,2

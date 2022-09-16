@@ -1,0 +1,7 @@
+start apple,2 eggs,2 nuts,3 choclate,1
+apple meat,1 start,2 
+meat eggs,1 juice,2 apple,1
+eggs juice,2 choclate,1 nuts,2 start,2 meat,1 
+juice nuts,2 meat,2 eggs,2 
+nuts choclate,1 start,3 eggs,2 juice,2 
+choclate start,1 eggs,1 nuts,1

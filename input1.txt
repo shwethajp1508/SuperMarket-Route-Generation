@@ -1,0 +1,20 @@
+start fruits,20 chips,23 rice,28 flowers,31 toys,36 books,39
+fruits start,20 vegetables,30 chips,3
+vegetables fruits,30 pickle,40
+pickle vegetables,40 biscuits,3
+chips start,23 fruits,3 chocolates,20 rice,5
+chocolates chips,20 biscuits,50 flour,5
+biscuits pickle,3 chocolates,50 cerals,5
+rice start,28 chips,5 flour,30 flowers,3
+flour chocolates,5 rice,30 cerals,40
+cerals biscuits,5 flour,40 pulses,3
+pulses cerals,3 juices,40 footwear,5
+juices pulses,40 flowers,30 clothes,5
+flowers start,31 rice,3 juices,30 toys,5
+toys start,36 flowers,5 clothes,20 books,3 jewellery,23
+clothes juices,5 toys,20 footwear,50
+footwear pulses,5 clothes,50 bags,3
+bags footwear,3 utensils,40
+utensils bags,40 books,30
+books start,39 toys,3 utensils,30 jewellery,20
+jewellery toys,23 books,20

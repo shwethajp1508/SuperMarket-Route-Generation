@@ -1,0 +1,7 @@
+start sanitizer,2
+sanitizer chips,2 candles,5 start,2
+chips sanitizer,2 soap,3
+toothpaste sugar,4 soap,2
+sugar toothpaste,4
+candles sanitizer,5 soap,1
+soap candles,1 toothpaste,2 chips,3

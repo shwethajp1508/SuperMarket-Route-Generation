@@ -1,0 +1,6 @@
+start oreo,2 milk,1
+oreo rice,3 tea,2 bread,2 start,2
+milk start,1 bread,1 tea,4
+rice oreo,3 bread,3
+bread rice,3 oreo,2 milk,1
+tea oreo,2 milk,4
